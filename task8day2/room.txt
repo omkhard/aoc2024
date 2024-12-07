@@ -1,0 +1,14 @@
+-------------------
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+-EncodedCommand 
+SQBuAHMAdABhAGwAbAAtAFcAaQBuAGQAbwB3AHMAVQBwAGQAYQB0AGUAIAAtAEEAYwBjAGUAcAB0AEEAbABsACAALQBBAHUAdABvAFIAZQBiAG8AbwB0AA==
+-------------------
+First 'success' login
+for Glitch's IP
+Dec 1, 2024 @ 08:54:39.000
+for service_admin ip without Glitch
+Dec 1, 2024 @ 09:00:59.000
+-------------------
+decoded the upper base64 command arg 
+`Install-WindowsUpdate -AcceptAll -AutoReboot`
+-------------------
