@@ -1,0 +1,11 @@
+-------------------
+did ' ELK (Elastic Logstash and Kibana searches) and 
+found out the answers '
+
+-------------------
+found the path from logs and ip 
+related to the *php value for request kibana filter
+
+`/media/images/rooms`
+-------------------
+The above directory path to the website gave many flags and answers 
