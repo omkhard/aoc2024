@@ -1,0 +1,14 @@
+-------------------
+did ' explored about XXE external XML  Execution is basically a 
+high severity vuln and can execute REmote commands on the Execution
+server'
+-------------------
+did ' injected the payload of suggestions and /etc/hosts was readable'
+using Burpsuite
+
+-------------------  
+got the flag in /var/www/html/wishes/ directory after 
+iterating over 15-20 wishes text files.
+-------------------
+got the flag in CHANGELOG page of website , where the attack commit 
+was logged.
