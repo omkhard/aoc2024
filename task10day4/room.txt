@@ -1,0 +1,6 @@
+-------------------
+did ' checked the tool Invoke-AtomicTest'
+-------------------
+found out few answers through the google surfing
+-------------------
+few flags inside the Atomic directory in C:/Tools/
