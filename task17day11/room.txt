@@ -1,0 +1,16 @@
+-------------------
+did 'ssh to the attachMachine'
+-------------------
+# iw dev 
+
+got the output info on
+glitch@wifi:~$ iw dev
+phy#2
+        Interface wlan2
+                ifindex ******
+                wdev ******
+                addr ******
+                type ******
+                txpower ******
+-------------------
+did 'as what shown in description and got the answers'

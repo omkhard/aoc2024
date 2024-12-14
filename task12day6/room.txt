@@ -1,0 +1,19 @@
+-------------------
+did the 'execution of sysmon (System Monitor) and
+and released the malware execution which gave the decoded Flag 1'
+-------------------
+Got the command after decoding the base64 to the explanation code
+`Get-ItemProperty -Path 
+"HKLM:\Software\Microsoft\Windows\CurrentVersion" 
+-Name ProgramFilesDir`
+-------------------
+the above command was kind of `file` in linux  simalirity
+-------------------
+checking for Flag 2 , by running other malwares present in machine
+------------------- 
+Floss is similar tool as `strings` in linux 
+checks for ascii or human readable strings present in a binary or 
+executable
+found Flag 2 in the malstrings.txt file which contains the output 
+of the `strings ` of the malicious bin
+-------------------
